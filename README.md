@@ -37,7 +37,7 @@ The project includes data cleaning, transformation, data modeling, and DAX-based
 
 ## 📊 Dashboard Preview
 
-![Amazon Sales Dashboard](dashboard-overview.png)
+![Amazon Sales Dashboard](dashboard_overview.png)
 
 ## 💡 Dashboard Features
 
